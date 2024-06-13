@@ -8,7 +8,7 @@ const HardSkill = () => {
   return (
     <View style={styles.container}>
       {/* <Text style={{fontSize: 32, fontFamily: 'Open-Sans'}}>HARD SKILL</Text> */}
-      <Text style={styles.text}>SOFT SKILL</Text>
+      <Text style={styles.text}>HARD SKILL</Text>
       <CarouselSlider/>
     </View>
   )
